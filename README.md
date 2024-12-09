@@ -1,5 +1,5 @@
 <!-- Project Title -->
-<h1 align="center">MusMoo</h1>
+<h1 align="center">Music-Inator</h1>
 
 <!-- Project Description -->
 <p align="center">A Python application that detects user emotions via AI and recommends personalized songs based on emotional state.</p>
